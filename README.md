@@ -21,7 +21,7 @@ The application can be accessed online hosted by Heroku. For local usage, the ap
 
 ![Application Screenshot](./assets/images/application-screenshot.jpg?raw=tru "Application Screenshot")
 
-Application Website:
+Application Website: https://stormy-dawn-52440.herokuapp.com/
 
 ## Tests
 There are no tests for this application.
